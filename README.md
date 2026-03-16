@@ -16,6 +16,28 @@
   <img src="https://img.shields.io/badge/Agno-Agent_Framework-purple" alt="Agno">
 </p>
 
+### 🔍 Demo: Neo4j Graph Query — `find_contracts_by_type`
+
+> *"License Agreement türündeki sözleşmeleri göster."*
+
+<p align="center">
+  <img src="images/im.png" alt="Neo4j Query - Thinking & Tool Call" width="900">
+</p>
+<p align="center">
+  <img src="images/im2.png" alt="Neo4j Query - Response Table" width="900">
+</p>
+
+### 📄 Demo: Qdrant Semantic Search — `search`
+
+> *"Sözleşmelerde tazminat ve sorumluluk sınırlandırması hakkında ne tür maddeler var?"*
+
+<p align="center">
+  <img src="images/im4.png" alt="Qdrant Search - Thinking & Tool Call" width="900">
+</p>
+<p align="center">
+  <img src="images/im3.png" alt="Qdrant Search - Response with Contract Quotes" width="900">
+</p>
+
 ---
 
 ## 📖 Table of Contents
